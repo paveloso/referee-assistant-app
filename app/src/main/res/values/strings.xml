@@ -2,4 +2,5 @@
     <string name="app_name">Referee Assistant App</string>
     <string name="start_match_text">start match</string>
     <string name="show_info">show info</string>
+    <string name="start_timer_text">start whistle</string>
 </resources>
